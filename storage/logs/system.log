@@ -1,0 +1,7017 @@
+[2024-02-25 23:31:40] production.DEBUG: Message-ID: <b3f54aaed4680d06717cd28fbf4a9f31@localhost>
+Date: Sun, 25 Feb 2024 23:31:40 +0000
+Subject: Welcome to TastyIgniter
+From: TastyIgniter <admin@restaurant.com>
+To: casper.solangi@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708903900_24b942fa371413d4a0360704ccfd0f0b_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Casper Solangi,</p>
+<h2>Thank you for registering with TastyIgniter.</h2>
+<p>Your account has now been created and you can log in using your email address and password by clicking the button below:</p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/login" class="button button-primary" target="_blank">Login into your account</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Casper Solangi,
+
+Thank you for registering with TastyIgniter.
+
+Your account has now been created and you can log in using your email address and password by visiting our website or at the following URL: http://localhost/tasty/login  
+[2024-02-25 23:40:43] production.ERROR: Provider "Open street maps" could not geocode address, "The geocoder server returned an empty or invalid response.".  
+[2024-02-27 01:20:31] production.DEBUG: Message-ID: <1dbbc32914a74b141151fd723a87310f@localhost>
+Date: Tue, 27 Feb 2024 01:20:29 +0000
+Subject: Your Order Update - 1
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708996831_6c1442d36acf74bea530acf8be4f9517_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>1</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 1 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-02-27 01:21:14] production.DEBUG: Message-ID: <6a5f5d805825b91a9e160153a042024f@localhost>
+Date: Tue, 27 Feb 2024 01:21:14 +0000
+Subject: Your Order Update - 1
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708996874_af8dcd0b3829ec5e7a07ea34872f5ea1_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>1</strong> has been updated to the following status: <br>
+<strong>Preparation</strong></p>
+<p>The comments for your order are: <br>
+<strong>Your order is in the kitchen</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 1 has been updated to the following status: Preparation
+
+The comments for your order are:
+Your order is in the kitchen
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-02-27 01:22:00] production.DEBUG: Message-ID: <f0d08ee1f4ca7e5335572d49cb2d0293@localhost>
+Date: Tue, 27 Feb 2024 01:21:59 +0000
+Subject: Your Order Update - 2
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708996920_0f0bfb76fedc45a7521d2ff24b5e1187_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>2</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 2 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-02-27 01:31:05] production.DEBUG: Message-ID: <62b73e36e167df9eba5b584dacd5340e@localhost>
+Date: Tue, 27 Feb 2024 01:31:05 +0000
+Subject: Welcome to TastyIgniter
+From: TastyIgniter <admin@restaurant.com>
+To: casper.solangi2910@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708997465_4095f3c3d7aca33868cda4a153a829d5_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi asda sdadsasd,</p>
+<h2>Thank you for registering with TastyIgniter.</h2>
+<p>Your account has now been created and you can log in using your email address and password by clicking the button below:</p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/login" class="button button-primary" target="_blank">Login into your account</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi asda sdadsasd,
+
+Thank you for registering with TastyIgniter.
+
+Your account has now been created and you can log in using your email address and password by visiting our website or at the following URL: http://localhost/tasty/login  
+[2024-02-27 01:31:55] production.DEBUG: Message-ID: <9a60e0b68bbe300be2fb63fdb1e1872a@localhost>
+Date: Tue, 27 Feb 2024 01:31:55 +0000
+Subject: Your Order Update - 3
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708997515_a7a35ee92e527312e323275dea3621ff_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>3</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 3 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-02-27 01:32:24] production.DEBUG: Message-ID: <77e2e5f7e588342a058415acffe2d268@localhost>
+Date: Tue, 27 Feb 2024 01:32:24 +0000
+Subject: Your Order Update - 4
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708997544_5d1d25c189196e2bb4fe861c0800fdcd_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>4</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 4 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-02-27 01:34:40] production.DEBUG: Message-ID: <1dfc77e3ed4eb62b28f24652220d25bf@localhost>
+Date: Tue, 27 Feb 2024 01:34:40 +0000
+Subject: Your Order Update - 6
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1708997680_522342a3978713d0da2d1c230ce6b8c6_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>6</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 6 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-03-12 10:31:15] production.DEBUG: Message-ID: <7453d2881c65dd288f4d5a8f459ccfce@localhost>
+Date: Tue, 12 Mar 2024 10:31:14 +0000
+Subject: Your Order Update - 7
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710239475_3769fe3b8180b0fe218e0d1bf0a28f74_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://localhost/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>7</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://localhost/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 7 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://localhost/tasty/account/order  
+[2024-03-12 12:09:35] production.ERROR: TypeError: Igniter\Api\Classes\AbstractRepository::find(): Argument #1 ($id) must be of type int, string given, called in C:\xampp\htdocs\tasty\extensions\igniter\api\actions\RestController.php on line 103 and defined in C:\xampp\htdocs\tasty\extensions\igniter\api\classes\AbstractRepository.php:43
+Stack trace:
+#0 C:\xampp\htdocs\tasty\extensions\igniter\api\actions\RestController.php(103): Igniter\Api\Classes\AbstractRepository->find('$menuId')
+#1 [internal function]: Igniter\Api\Actions\RestController->show('$menuId')
+#2 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Traits\ExtendableTrait.php(451): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Support\Extendable.php(42): Igniter\Flame\Support\Extendable->extendableCall('show', Array)
+#4 [internal function]: Igniter\Flame\Support\Extendable->__call('show', Array)
+#5 C:\xampp\htdocs\tasty\extensions\igniter\api\classes\ApiController.php(43): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(45): Igniter\Api\Classes\ApiController->callAction('show', Array)
+#7 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Route.php(261): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Igniter\Api\ApiResources\Menus), 'show')
+#8 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Route.php(205): Illuminate\Routing\Route->runController()
+#9 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(721): Illuminate\Routing\Route->run()
+#10 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(128): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Dingo\Api\Http\Request))
+#11 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\Auth.php(55): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#12 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Dingo\Api\Http\Middleware\Auth->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#13 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Middleware\SubstituteBindings.php(50): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#14 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#15 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Middleware\ThrottleRequests.php(127): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#16 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Middleware\ThrottleRequests.php(93): Illuminate\Routing\Middleware\ThrottleRequests->handleRequest(Object(Dingo\Api\Http\Request), Object(Closure), Array)
+#17 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Middleware\ThrottleRequests.php(55): Illuminate\Routing\Middleware\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Dingo\Api\Http\Request), Object(Closure), 'api', Object(Closure))
+#18 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Routing\Middleware\ThrottleRequests->handle(Object(Dingo\Api\Http\Request), Object(Closure), 'api')
+#19 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\PrepareController.php(45): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#20 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Dingo\Api\Http\Middleware\PrepareController->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#21 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(103): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#22 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(719): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#23 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(698): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Dingo\Api\Http\Request))
+#24 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(662): Illuminate\Routing\Router->runRoute(Object(Dingo\Api\Http\Request), Object(Illuminate\Routing\Route))
+#25 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Router\CoreRouter.php(22): Illuminate\Routing\Router->dispatchToRoute(Object(Dingo\Api\Http\Request))
+#26 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Routing\Adapter\Laravel.php(88): Igniter\Flame\Router\CoreRouter->dispatch(Object(Dingo\Api\Http\Request))
+#27 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Routing\Router.php(518): Dingo\Api\Routing\Adapter\Laravel->dispatch(Object(Dingo\Api\Http\Request), 'v1')
+#28 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\Request.php(126): Dingo\Api\Routing\Router->dispatch(Object(Dingo\Api\Http\Request))
+#29 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(128): Dingo\Api\Http\Middleware\Request->Dingo\Api\Http\Middleware\{closure}(Object(Dingo\Api\Http\Request))
+#30 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Setting\Middleware\SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#31 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#33 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\TrimStrings.php(40): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\TrimStrings->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#35 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#36 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#37 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance.php(86): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#38 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#39 C:\xampp\htdocs\tasty\vendor\fruitcake\laravel-cors\src\HandleCors.php(52): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#40 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Fruitcake\Cors\HandleCors->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#41 C:\xampp\htdocs\tasty\vendor\fideloper\proxy\src\TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#42 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Fideloper\Proxy\TrustProxies->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#43 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(103): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Dingo\Api\Http\Request))
+#44 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\Request.php(125): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#45 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\Request.php(103): Dingo\Api\Http\Middleware\Request->sendRequestThroughRouter(Object(Dingo\Api\Http\Request))
+#46 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Dingo\Api\Http\Middleware\Request->handle(Object(Dingo\Api\Http\Request), Object(Closure))
+#47 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(103): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#48 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(142): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#49 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#50 C:\xampp\htdocs\tasty\index.php(52): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#51 {main}  
+[2024-03-13 09:53:47] production.DEBUG: Message-ID: <3cf9f13fbd5d15300ad68880cbbb40e2@192.168.1.21>
+Date: Wed, 13 Mar 2024 09:53:32 +0000
+Subject: Your Order Update - 8
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710323626_6213a4c27afc8cb43f3f87bfe288bb70_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.21/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>8</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.21/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 8 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.21/tasty/account/order  
+[2024-03-13 09:53:49] production.DEBUG: Message-ID: <8fb7096b0a14c4b89868f6b5a5d2c964@192.168.1.21>
+Date: Wed, 13 Mar 2024 09:53:48 +0000
+Subject: Your Order Update - 9
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710323628_ba46b747289e1437fcf0989184ffa20f_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.21/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>9</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.21/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 9 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.21/tasty/account/order  
+[2024-03-16 09:41:28] production.DEBUG: Message-ID: <902e0b55c7663614aee8b2b68e69fbe7@192.168.1.8>
+Date: Sat, 16 Mar 2024 09:41:24 +0000
+Subject: Your Order Update - 10
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710582088_559f45f5f2f682b9d1fa42bc727500f6_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>10</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 10 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-16 12:19:02] production.DEBUG: Message-ID: <a3099efcbc2606e2cbb1c86c597d76d9@192.168.1.8>
+Date: Sat, 16 Mar 2024 12:18:59 +0000
+Subject: Your Order Update - 11
+From: TastyIgniter <admin@restaurant.com>
+To: Tucker Vega <vavur@mailinator.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710591542_e5fa7615056b2e2aa0d2768b6fa6ef5f_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi Tucker Vega,</p>
+<p>Your order <strong>11</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 11 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-16 12:54:50] production.DEBUG: Message-ID: <602ebf82d75f861cfffd032f45f0eeb1@192.168.1.8>
+Date: Sat, 16 Mar 2024 12:54:50 +0000
+Subject: Your Order Update - 12
+From: TastyIgniter <admin@restaurant.com>
+To: " " <casper.solangi@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710593690_982aef9f613b7f9c2d38cb82b0129c1d_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi  ,</p>
+<p>Your order <strong>12</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 12 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-16 13:04:19] production.DEBUG: Message-ID: <f297a7796c584e709fa575afe2906f51@192.168.1.8>
+Date: Sat, 16 Mar 2024 13:04:19 +0000
+Subject: Your Order Update - 13
+From: TastyIgniter <admin@restaurant.com>
+To: casper solangi <casper.solangi@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710594259_444d1ce8d08f7dd913174e5ebb66d41e_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi casper solangi,</p>
+<p>Your order <strong>13</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 13 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-16 13:04:36] production.ERROR: RuntimeException: Unsupported cipher or incorrect key length. Supported ciphers are: aes-128-cbc, aes-256-cbc, aes-128-gcm, aes-256-gcm. in C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Encryption\Encrypter.php:55
+Stack trace:
+#0 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Encryption\EncryptionServiceProvider.php(34): Illuminate\Encryption\Encrypter->__construct('CHANGE!!!!!!!!!...', 'AES-256-CBC')
+#1 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(873): Illuminate\Encryption\EncryptionServiceProvider->Illuminate\Encryption\{closure}(Object(Igniter\Flame\Foundation\Application), Array)
+#2 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(851): Illuminate\Container\Container->resolve('encrypter', Array, true)
+#4 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(694): Illuminate\Foundation\Application->resolve('encrypter', Array)
+#5 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(836): Illuminate\Container\Container->make('encrypter', Array)
+#6 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(1027): Illuminate\Foundation\Application->make('encrypter')
+#7 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(947): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#8 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#9 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(758): Illuminate\Container\Container->build('Igniter\\Flame\\F...')
+#10 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(851): Illuminate\Container\Container->resolve('Igniter\\Flame\\F...', Array, true)
+#11 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(694): Illuminate\Foundation\Application->resolve('Igniter\\Flame\\F...', Array)
+#12 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(836): Illuminate\Container\Container->make('Igniter\\Flame\\F...', Array)
+#13 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(156): Illuminate\Foundation\Application->make('Igniter\\Flame\\F...')
+#14 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(103): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#15 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(719): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#16 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(698): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#17 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Routing\Router.php(662): Illuminate\Routing\Router->runRoute(Object(Illuminate\Http\Request), Object(Illuminate\Routing\Route))
+#18 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Router\CoreRouter.php(22): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#19 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(167): Igniter\Flame\Router\CoreRouter->dispatch(Object(Illuminate\Http\Request))
+#20 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(128): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#21 C:\xampp\htdocs\tasty\vendor\tastyigniter\flame\src\Setting\Middleware\SaveSetting.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Igniter\Flame\Setting\Middleware\SaveSetting->handle(Object(Illuminate\Http\Request), Object(Closure))
+#23 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\TransformsRequest.php(21): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#24 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\TrimStrings.php(40): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\TrimStrings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#26 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\ValidatePostSize.php(27): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#27 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance.php(86): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 C:\xampp\htdocs\tasty\vendor\fruitcake\laravel-cors\src\HandleCors.php(38): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Fruitcake\Cors\HandleCors->handle(Object(Illuminate\Http\Request), Object(Closure))
+#32 C:\xampp\htdocs\tasty\vendor\fideloper\proxy\src\TrustProxies.php(57): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#33 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Fideloper\Proxy\TrustProxies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 C:\xampp\htdocs\tasty\extensions\igniter\api\vendor\dingo\api\src\Http\Middleware\Request.php(111): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(167): Dingo\Api\Http\Middleware\Request->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Pipeline\Pipeline.php(103): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(142): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#38 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(111): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#39 C:\xampp\htdocs\tasty\index.php(52): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#40 {main}  
+[2024-03-16 13:04:37] production.ERROR: RuntimeException: Unsupported cipher or incorrect key length. Supported ciphers are: aes-128-cbc, aes-256-cbc, aes-128-gcm, aes-256-gcm. in C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Encryption\Encrypter.php:55
+Stack trace:
+#0 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Encryption\EncryptionServiceProvider.php(34): Illuminate\Encryption\Encrypter->__construct('CHANGE!!!!!!!!!...', 'AES-256-CBC')
+#1 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(873): Illuminate\Encryption\EncryptionServiceProvider->Illuminate\Encryption\{closure}(Object(Igniter\Flame\Foundation\Application), Array)
+#2 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(851): Illuminate\Container\Container->resolve('encrypter', Array, true)
+#4 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(694): Illuminate\Foundation\Application->resolve('encrypter', Array)
+#5 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(836): Illuminate\Container\Container->make('encrypter', Array)
+#6 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(1027): Illuminate\Foundation\Application->make('encrypter')
+#7 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(947): Illuminate\Container\Container->resolveClass(Object(ReflectionParameter))
+#8 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(908): Illuminate\Container\Container->resolveDependencies(Array)
+#9 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(758): Illuminate\Container\Container->build('Igniter\\Flame\\F...')
+#10 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(851): Illuminate\Container\Container->resolve('Igniter\\Flame\\F...', Array, true)
+#11 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Container\Container.php(694): Illuminate\Foundation\Application->resolve('Igniter\\Flame\\F...', Array)
+#12 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(836): Illuminate\Container\Container->make('Igniter\\Flame\\F...', Array)
+#13 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(206): Illuminate\Foundation\Application->make('Igniter\\Flame\\F...')
+#14 C:\xampp\htdocs\tasty\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(180): Illuminate\Foundation\Http\Kernel->terminateMiddleware(Object(Illuminate\Http\Request), Object(Illuminate\Http\Response))
+#15 C:\xampp\htdocs\tasty\index.php(58): Illuminate\Foundation\Http\Kernel->terminate(Object(Illuminate\Http\Request), Object(Illuminate\Http\Response))
+#16 {main}  
+[2024-03-16 13:12:00] production.DEBUG: Message-ID: <39e15cd6411491c98e3c5db1b6476442@192.168.1.8>
+Date: Sat, 16 Mar 2024 13:12:00 +0000
+Subject: Your Order Update - 14
+From: TastyIgniter <admin@restaurant.com>
+To: casper solangi <casper.solangi@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710594720_a4083e55168d25faffc3f00a9788424c_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi casper solangi,</p>
+<p>Your order <strong>14</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 14 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-16 13:12:51] production.DEBUG: Message-ID: <439ccffe78929e5639f5a8a8ecf50b7b@192.168.1.8>
+Date: Sat, 16 Mar 2024 13:12:51 +0000
+Subject: Your Order Update - 15
+From: TastyIgniter <admin@restaurant.com>
+To: casper solangi <casper.solangi@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710594771_67cef64d1b990ec7c361242a0c6618b8_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.8/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi casper solangi,</p>
+<p>Your order <strong>15</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.8/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 15 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.8/tasty/account/order  
+[2024-03-17 10:39:44] production.DEBUG: Message-ID: <88fcc9642153cbde1b5686d6e2abf994@192.168.1.13>
+Date: Sun, 17 Mar 2024 10:39:38 +0000
+Subject: Your Order Update - 16
+From: TastyIgniter <admin@restaurant.com>
+To: casper solangi <casper.solangi@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1710671984_701dfdedc84f042f5bbf5514f0ae337c_=_"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<style type="text/css">
+    /* Base */
+
+body, body *:not(html):not(style):not(br):not(tr):not(code) {
+  font-family: Avenir, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F5F5;
+  color: #74787E;
+  height: 100%;
+  hyphens: auto;
+  line-height: 1.4;
+  margin: 0;
+  -moz-hyphens: auto;
+  -ms-word-break: break-all;
+  width: 100% !important;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: none;
+  word-break: break-all;
+  word-break: break-word;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  line-height: 1.4;
+  text-align: left;
+}
+
+a {
+  color: #3869D4;
+}
+
+a img {
+  border: none;
+}
+
+/* Typography */
+
+h1 {
+  color: #2F3133;
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h2 {
+  color: #2F3133;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3 {
+  color: #2F3133;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+
+p {
+  color: #74787E;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+p.sub {
+  font-size: 12px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+
+.wrapper {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+/* Header */
+
+.header {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.header a {
+  color: #bbbfc3;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 1px 0 white;
+}
+
+/* Body */
+
+.body {
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.inner-body {
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  padding: 0;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+/* Subcopy */
+
+.subcopy {
+  border-top: 1px solid #EDEFF2;
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.subcopy p {
+  font-size: 12px;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 570px;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 570px;
+}
+
+.footer p {
+  color: #AEAEAE;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Tables */
+
+.table table {
+  margin: 30px auto;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.table th {
+  border-bottom: 1px solid #EDEFF2;
+  padding-bottom: 8px;
+  margin: 0;
+}
+
+.table td {
+  color: #74787E;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.content-cell {
+  padding: 35px;
+}
+
+/* Buttons */
+
+.action {
+  margin: 30px auto;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.button {
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+  color: #FFF;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-text-size-adjust: none;
+}
+
+.button-blue, .button-primary {
+  background-color: #3097D1;
+  border-top: 10px solid #3097D1;
+  border-right: 18px solid #3097D1;
+  border-bottom: 10px solid #3097D1;
+  border-left: 18px solid #3097D1;
+}
+
+.button-green, .button-success {
+  background-color: #2ab27b;
+  border-top: 10px solid #2ab27b;
+  border-right: 18px solid #2ab27b;
+  border-bottom: 10px solid #2ab27b;
+  border-left: 18px solid #2ab27b;
+}
+
+.button-red, .button-danger {
+  background-color: #bf5329;
+  border-top: 10px solid #bf5329;
+  border-right: 18px solid #bf5329;
+  border-bottom: 10px solid #bf5329;
+  border-left: 18px solid #bf5329;
+}
+
+/* Panels */
+
+.panel {
+  margin: 0 0 21px;
+}
+
+.panel-content {
+  background-color: #EDEFF2;
+  padding: 16px;
+}
+
+.panel-item {
+  padding: 0;
+}
+
+.panel-item p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Promotions */
+
+.promotion {
+  background-color: #FFFFFF;
+  border: 2px dashed #9BA2AB;
+  margin: 0;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 24px;
+  width: 100%;
+  -premailer-cellpadding: 0;
+  -premailer-cellspacing: 0;
+  -premailer-width: 100%;
+}
+
+.promotion h1 {
+  text-align: center;
+}
+
+.promotion p {
+  font-size: 15px;
+  text-align: center;
+}
+    
+</style>
+
+<table class="wrapper" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td align="center">
+            <table class="content" width="100%" cellpadding="0" cellspacing="0">
+                <tr>
+    <td class="header">
+                <span>
+            <img
+                        src="http://192.168.1.13/tasty/storage/temp/public/a3d/8df/9b1/thumb_a3d8df9b137ff7322db3d5f443a24eef_1703985966_0x90_contain.png"
+                        alt="TastyIgniter"
+                    >
+        </span>
+            </td>
+</tr>                <tr>
+                    <td class="body" width="100%" cellpadding="0" cellspacing="0">
+                        <table class="inner-body" align="center" width="570" cellpadding="0" cellspacing="0">
+                            <!-- Body content -->
+                            <tr>
+                                <td class="content-cell">
+                                    <p>Hi casper solangi,</p>
+<p>Your order <strong>16</strong> has been updated to the following status: <br>
+<strong>Received</strong></p>
+<p>The comments for your order are: <br>
+<strong>My comment</strong></p>
+<table class="action" align="center" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <table border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a href="http://192.168.1.13/tasty/account/order" class="button button-primary" target="_blank">View your order progress</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+    <td>
+        <table class="footer" align="center" width="570" cellpadding="0" cellspacing="0">
+            <tr>
+                <td class="content-cell" align="center">
+                    <p>&copy; 2024 TastyIgniter. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Order Update!
+
+Your order 16 has been updated to the following status: Received
+
+The comments for your order are:
+My comment
+
+To view your order progress, click the link below
+http://192.168.1.13/tasty/account/order  
